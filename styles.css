@@ -1,0 +1,30 @@
+body{
+  font-family: Montserrat;
+  font-weight: 400;
+  margin: 0;
+}
+h1{
+  font-size: 50px;
+  font-weight: 500;
+}
+.dev-name{
+  color: orange;
+  font-weight: bold;
+}
+
+#intro{
+  display: flex;
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+}
+.intro{
+  width: 50%;
+  padding: 2%;
+}
+.image{
+  width: 50%;
+  padding: 2%;
+}
+.image img{
+  width: 80%;
+}
